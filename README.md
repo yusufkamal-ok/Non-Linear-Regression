@@ -1,2 +1,2 @@
 # Non-Linear-Regression
-Penyelesaian masalah menggunakan formula : ln y = ln b + ax
+Problem solving using formula : ln y = ln b + ax
